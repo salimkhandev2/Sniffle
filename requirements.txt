@@ -1,0 +1,5 @@
+mitmproxy>=10.0.0
+deepdiff>=7.0.0
+PyJWT>=2.8.0
+detect-secrets>=1.4.0
+schemathesis>=3.0.0
