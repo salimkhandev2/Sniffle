@@ -2,7 +2,7 @@
 
 A local HTTP(S) inspector with intercept, rules, scope, and advanced analysis capabilities.
 
-## Installation
+## Installations
 
 ```bash
 pip install -r requirements.txt
